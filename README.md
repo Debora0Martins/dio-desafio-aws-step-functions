@@ -41,7 +41,7 @@ Entendi o significado de termos técnicos como **Task, Choice, Parallel** e como
 Também identifiquei minhas dificuldades, como implementar **Choice com múltiplos critérios** e integrar Step Functions com **SQS**, e sei onde preciso focar para evoluir.  
 Sentir essa prática me deu mais **confiança para criar pequenos projetos automatizados** usando Java e AWS.
 
-## Imagens do 
+## Imagens do desafio
 - Todas as fotos coforme o pedido do desfio.
 ## Observações
 Este projeto serve como material de estudo e documentação do workflow automatizado. Todos os prints estão na pasta `/images`.
