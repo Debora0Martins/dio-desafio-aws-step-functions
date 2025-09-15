@@ -41,7 +41,27 @@ Entendi o significado de termos técnicos como **Task, Choice, Parallel** e como
 Também identifiquei minhas dificuldades, como implementar **Choice com múltiplos critérios** e integrar Step Functions com **SQS**, e sei onde preciso focar para evoluir.  
 Sentir essa prática me deu mais **confiança para criar pequenos projetos automatizados** usando Java e AWS.
 
+## 📝 Insights e aprendizados
+- Sempre manter **backups (snapshots)** antes de alterações significativas.  
+- Usar **Security Groups estritos**: liberar apenas IPs/ports necessários.  
+- Testar a **restauração do snapshot** em uma instância temporária.  
+- Nomear imagens e snapshots com padrão: `projeto-data-descrição`.  
+- Documentar cada passo para replicação futura
+
+  
 ## Imagens do desafio
 - Todas as fotos coforme o pedido do desfio.
+
+  
+  ## 📚 Recursos úteis
+- [Documentação oficial AWS EC2](https://docs.aws.amazon.com/ec2/index.html) – Guia completo da AWS para instâncias EC2.  
+- [AWS CLI](https://aws.amazon.com/cli/) – Ferramenta de linha de comando para gerenciar serviços AWS.  
+- [Draw.io](https://app.diagrams.net/) – Criar diagramas de arquitetura e fluxos de trabalho.
+
+  
 ## Observações
 Este projeto serve como material de estudo e documentação do workflow automatizado. Todos os prints estão na pasta `/images`.
+
+✍️ Autor: Débora Flaviana  
+📌 Repositório criado como parte do desafio DIO — 2025  
+📄 Licença: MIT
