@@ -52,8 +52,9 @@ Sentir essa prática me deu mais **confiança para criar pequenos projetos autom
 ## Imagens do desafio
 - Todas as fotos coforme o pedido do desfio.
 
-  
-  ## 📚 Recursos úteis
+
+## Recursos úteis
+ 
 - [Documentação oficial AWS EC2](https://docs.aws.amazon.com/ec2/index.html) – Guia completo da AWS para instâncias EC2.  
 - [AWS CLI](https://aws.amazon.com/cli/) – Ferramenta de linha de comando para gerenciar serviços AWS.  
 - [Draw.io](https://app.diagrams.net/) – Criar diagramas de arquitetura e fluxos de trabalho.
@@ -62,6 +63,6 @@ Sentir essa prática me deu mais **confiança para criar pequenos projetos autom
 ## Observações
 Este projeto serve como material de estudo e documentação do workflow automatizado. Todos os prints estão na pasta `/images`.
 
-✍️ Autor: Débora Flaviana  
+✍️ Autor: Débora Martins 
 📌 Repositório criado como parte do desafio DIO — 2025  
 📄 Licença: MIT
